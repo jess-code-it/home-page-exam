@@ -1,0 +1,32 @@
+#body{
+    background-color: #eff4f8;
+    font-family: 'Poppins', sans-serif;
+}
+.hero-section {
+    position: relative;
+}
+.hero-section .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.hero-section h1 {
+    color: white;
+}
+#Features {
+    background-color: #ffffff;
+    padding: 50px 0;
+}
+#other-products {
+    background-color: #ffffff;
+    padding: 50px 0;
+}
+footer {
+    background-color: #ffffff;
+}
+
+  .carousel-item img {
+    object-fit: cover;
+}
